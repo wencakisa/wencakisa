@@ -22,3 +22,8 @@ Hey there! I'm Ventsislav (or just Ventsi), **Full-stack Developer** from **Sofi
 
 <a href="https://www.linkedin.com/in/ventsislav-tashev/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://stackoverflow.com/users/5729960/wencakisa" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a>
+
+## GitHub stats 📊
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wencakisa&count_private=true&show_icons=true&theme=gruvbox)
+
