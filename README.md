@@ -1,6 +1,6 @@
 # 👋 Hi 
 
-Hey there! I'm Ventsislav (or just Ventsi), **Full-stack Software Engineer** from **Sofia, Bulgaria** 🇧🇬.
+Hey there! I'm Ventsislav (or just Ventsi), **Full Stack Software Engineer** from **Sofia, Bulgaria** 🇧🇬.
 
 ## 👨‍💻 Tech stack
 
@@ -16,8 +16,8 @@ Hey there! I'm Ventsislav (or just Ventsi), **Full-stack Software Engineer** fro
 ## 🌍 Contact me
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventsislav-tashev/)
-[![](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5729960/wencakisa)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/v_tashev)
+[![](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5729960/wencakisa)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ventsislav.n.tashev@gmail.com)
 
 ## 📈 Stats
