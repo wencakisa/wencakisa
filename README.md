@@ -1,6 +1,6 @@
 # 👋 Hi 
 
-Hey there! I'm Ventsislav (or just Ventsi), **Full Stack Software Engineer** from **Sofia, Bulgaria** 🇧🇬.
+Hey there! I'm Ventsislav (or just Ventsi), **Fullstack Software Developer** from **Sofia, Bulgaria** 🇧🇬.
 
 ## 👨‍💻 Tech stack
 
